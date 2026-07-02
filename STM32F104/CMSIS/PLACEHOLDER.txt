@@ -1,0 +1,1 @@
+PLACEHOLDER: STM32CubeF1 files go here. See ../README.md

@@ -1,0 +1,15 @@
+# ---- build outputs (STM32F104_ex_phExCcid/build) ----
+obj/
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+
+# ---- editor / OS cruft ----
+.vscode/
+*.swp
+*~
+Thumbs.db
+.DS_Store
